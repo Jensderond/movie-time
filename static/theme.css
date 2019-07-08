@@ -3,7 +3,7 @@ html[data-theme='dark'] {
     font-family: 'Roboto', sans-serif;
     --hue: 210;
     --accent-hue: 25;
-    --text-color-normal: rgb(14, 18, 20);
+    --text-color-normal: rgb(69, 69, 69);
     --text-color-light: hsl(var(--hue), 15%, 35%);
     --text-color-richer: hsl(var(--hue), 50%, 72%);
     --text-color-highlight: hsl(var(--accent-hue), 70%, 45%);
@@ -14,7 +14,7 @@ html[data-theme='dark'] {
     --button-background-hover: #293238;
     --button-text-color: rgb(47, 56, 61);
     --button-text-hover-color: rgb(223, 223, 223);
-    --background: hsl(var(--hue), 20%, 12%);
+    --background: rgb(20, 20, 20);
     background-color: var(--background);
 }
 
